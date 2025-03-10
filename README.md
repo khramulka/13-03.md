@@ -62,8 +62,8 @@
 
 ![image](igm/SB3.png)
 
-![image](igm/SB4.png)
+![image](igm/sb4.png)
 
-![image](igm/SB5.png)
+![image](igm/sb5.png)
 
 </details>

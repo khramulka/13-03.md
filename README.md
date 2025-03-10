@@ -60,5 +60,10 @@
 ### Решение 2 
 <details>
 
+![image](igm/SB3.png)
+
+![image](igm/SB4.png)
+
+![image](igm/SB5.png)
 
 </details>

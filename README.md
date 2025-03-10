@@ -21,6 +21,8 @@
 
 ### Решение 1 
 <details>
+
+ 
 ![image](https://github.com/khramulka/13-03.md/blob/main/igm/SB1.png)
 
 </details>

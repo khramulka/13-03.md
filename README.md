@@ -21,7 +21,7 @@
 
 ### Решение 1 
 <details>
-![image](igm/SB1.png)
+![image](http://13-03/igm/SB1.png)
 
 </details>
 

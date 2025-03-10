@@ -27,6 +27,8 @@
 
 ![image](igm/SB2.png)
 
+![image](igm/SB6.png)
+
 </details>
 
 ------

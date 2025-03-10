@@ -23,7 +23,7 @@
 <details>
 
 
-<\details>
+</details>
 
 ------
 
